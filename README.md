@@ -1,2 +1,2 @@
 # UE5_FilRouge
-UE5 basics learning during one year.
+"Fil Rouge" project repository. 3D platformer. Assets are from StackOBot project. Work in progress.
